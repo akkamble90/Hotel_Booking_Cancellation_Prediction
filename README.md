@@ -40,7 +40,7 @@ The Stacking Ensemble model demonstrated strong discriminative performance and c
 | **F1-Score** | **84.0%** | Balances high recall without excessive false alarms. |
 | **Precision** | **81.0%** | When flagged as high-risk, the model is correct 81% of the time. |
 
-![Model Performance & Evaluation Matrix](Performance_&_Evalluation.png)
+![Model Performance & Evaluation Matrix](model_evaluation_matrix.png)
 
 ---
 
@@ -48,7 +48,7 @@ The Stacking Ensemble model demonstrated strong discriminative performance and c
 
 The model provides actionable operational intelligence into what causes guest cancellations:
 
-![Behavioral & Operational Drivers](Behavrioural_&_Operational.png)
+![Behavioral & Operational Drivers](behavioral_insights.png)
 
 1. **Lead Time Correlation:** Reservations booked >90 days in advance show exponentially higher cancellation risk compared to last-minute bookings (<14 days).
 2. **Channel Stability Index:** Online booking channels exhibit the highest cancellation volatility, whereas Corporate and Offline segments show significantly higher commitment rates.
@@ -59,7 +59,7 @@ The model provides actionable operational intelligence into what causes guest ca
 
 ## Revenue Recovery & Feasible Interventions
 
-![Financial Recovery & Intervention Simulation](Revenue_&_Solution.png)
+![Financial Recovery & Intervention Simulation](revenue_and_solutions.png)
 
 - **Revenue Protection:** By accurately identifying cancellations in advance, revenue managers can resell rooms before the loss occurs, recovering substantial revenue through strategic overbooking and dynamic pricing.
 - **Targeted Action Matrix:**
