@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+optuna
+joblib
+<<<<<<< HEAD
+imbalanced-learn
+optuna
+matplotlib
+seaborn
+=======
+matplotlib
+seaborn
+>>>>>>> 9e69924
