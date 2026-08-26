@@ -78,5 +78,5 @@ The model provides actionable operational intelligence into what causes guest ca
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/hotel-cancellation-predictor.git](https://github.com/your-username/hotel-cancellation-predictor.git)
-   cd hotel-cancellation-predictor
+   git clone https://github.com/akkamble90/Hotel_Booking_Cancellation_Prediction.git
+   cd Hotel_Booking_Cancellation_Prediction
